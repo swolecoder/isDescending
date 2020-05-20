@@ -1,4 +1,4 @@
-# my module
+# isDescending
 
 ## example
 
